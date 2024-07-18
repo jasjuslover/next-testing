@@ -29,7 +29,7 @@
     "__tests__/page.test.tsx",
     "jest.setup.mjs",
     "jest.config.mjs",
-    "__tests__/utils/math.test.ts",
+    "utils/math.test.ts",
     "node",
     "jest",
     "@testing-library/jest-dom"
